@@ -1,0 +1,35 @@
+class LaunchPadModel {
+  String? audioPath;
+}
+
+List<LaunchPadModel> launchPadList = [
+  LaunchPadModel()..audioPath = '1.mp3',
+  LaunchPadModel()..audioPath = '2.mp3',
+  LaunchPadModel()..audioPath = '3.mp3',
+  LaunchPadModel()..audioPath = '4.mp3',
+  LaunchPadModel()..audioPath = '5.mp3',
+  LaunchPadModel()..audioPath = '6.mp3',
+  LaunchPadModel()..audioPath = '7.mp3',
+  LaunchPadModel()..audioPath = '8.mp3',
+  LaunchPadModel()..audioPath = '9.mp3',
+  LaunchPadModel()..audioPath = '10.mp3',
+  LaunchPadModel()..audioPath = '11.mp3',
+  LaunchPadModel()..audioPath = '12.mp3',
+  LaunchPadModel()..audioPath = '13.mp3',
+  LaunchPadModel()..audioPath = '14.mp3',
+  LaunchPadModel()..audioPath = '15.mp3',
+  LaunchPadModel()..audioPath = '16.mp3',
+  LaunchPadModel()..audioPath = '17.mp3',
+  LaunchPadModel()..audioPath = '18.mp3',
+  LaunchPadModel()..audioPath = '19.mp3',
+  LaunchPadModel()..audioPath = '20.wav',
+  LaunchPadModel()..audioPath = '21.mp3',
+  LaunchPadModel()..audioPath = '22.wav',
+  LaunchPadModel()..audioPath = '23.wav',
+  LaunchPadModel()..audioPath = '24.wav',
+  LaunchPadModel()..audioPath = '25.wav',
+  LaunchPadModel()..audioPath = '26.wav',
+  LaunchPadModel()..audioPath = '27.wav',
+  LaunchPadModel()..audioPath = '28.wav',
+  LaunchPadModel()..audioPath = '29.wav',
+];
