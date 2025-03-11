@@ -39,7 +39,12 @@ class _HomePageState extends State<HomePage> {
       backgroundColor: Colors.black,
       appBar: AppBar(
         backgroundColor: Colors.black,
-        title: const Text('Launchpad'),
+        title: const Text(
+          'Launchpad',
+          style: TextStyle(
+            color: Colors.white,
+          ),
+        ),
       ),
       body: SafeArea(
         child: GridView.builder(
